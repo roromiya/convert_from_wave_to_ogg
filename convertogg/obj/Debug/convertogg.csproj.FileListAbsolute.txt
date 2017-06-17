@@ -1,0 +1,15 @@
+C:\C#project\convertogg\convertogg\bin\Debug\convertogg.exe.config
+C:\C#project\convertogg\convertogg\obj\Debug\convertogg.csprojResolveAssemblyReference.cache
+C:\C#project\convertogg\convertogg\obj\Debug\convertogg.Form1.resources
+C:\C#project\convertogg\convertogg\obj\Debug\convertogg.Properties.Resources.resources
+C:\C#project\convertogg\convertogg\obj\Debug\convertogg.csproj.GenerateResource.Cache
+C:\C#project\convertogg\convertogg\bin\Debug\convertogg.exe
+C:\C#project\convertogg\convertogg\bin\Debug\convertogg.pdb
+C:\C#project\convertogg\convertogg\bin\Debug\NAudio.dll
+C:\C#project\convertogg\convertogg\bin\Debug\sfmlnet-audio-2.dll
+C:\C#project\convertogg\convertogg\bin\Debug\sfmlnet-graphics-2.dll
+C:\C#project\convertogg\convertogg\bin\Debug\sfmlnet-window-2.dll
+C:\C#project\convertogg\convertogg\bin\Debug\NAudio.xml
+C:\C#project\convertogg\convertogg\obj\Debug\convertogg.exe
+C:\C#project\convertogg\convertogg\obj\Debug\convertogg.pdb
+C:\C#project\convertogg\convertogg\bin\Debug\sfmlnet-system-2.dll
